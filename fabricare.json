@@ -1,0 +1,16 @@
+{
+	"solution": {
+		"name" : "vendor-tesseract",
+		"type" : "xyo-cpp",
+		"projects": [
+			{
+				"name" : "tesseract",
+				"SPDX-License-Identifier": "Apache-2.0",
+				"sourceLink" : "https://github.com/tesseract-ocr/tesseract",
+				"version" : "5.4.1",
+				"noVersion" : true
+			}
+		],
+		"releaseName" : "tesseract"
+	}
+}
