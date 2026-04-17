@@ -4,7 +4,7 @@ Build scripts for compiling [Tesseract](https://github.com/tesseract-ocr/tessera
 
 ## License
 
-Copyright (c) 2024-2025 Grigore Stefan
+Copyright (c) 2024-2026 Grigore Stefan
 Licensed under the [MIT](LICENSE) license.
 
 **This is a compilation of different works.**
